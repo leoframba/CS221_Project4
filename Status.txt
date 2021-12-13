@@ -1,0 +1,6 @@
+Leonardo Framba - Project 4 The program works as required. It compiles/runs and the
+output matches the correct format to the letter. My program uses an additional helper
+function called indexOf. This function returns the index of a given String in the list.
+If the String is not found it returns the negative index of the position where the String
+would have been if it was in the list. On a side note my program would benefit from having a
+size counter in the list struct to keep track of the number of elemetns in the list. 
